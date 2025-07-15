@@ -17,7 +17,7 @@ Hi! I’m Vikash, a passionate tech expert with a strong background in automatio
 * **Web Scraping & Automation** – Selenium, BeautifulSoup, AutoIt
 * **ETL & Data Warehousing** – Data collection, transformation, and warehousing
 * **Data Analyst** – Data cleaning, insight generation
-* **Background Screening Specialist** – 4+ years at Background Check Group (2017–2021)
+* **Background Screening Specialist** – 4+ years at Background Check Group (2017–Still Present As a PHP Developer)
 * **Dart & Flutter** – Mobile app development (currently learning via Jawan Pakistan & NED)
 
 ---
