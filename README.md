@@ -24,8 +24,6 @@ Hi! I’m Vikash, a passionate tech expert with a strong background in automatio
 
 ### 🧳 Certifications
 
-* ✅ [Certificate: Data Analytics & BI](https://media.licdn.com/dms/image/v2/C4E2DAQESRpkQC64E2Q/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1611313340929?e=1753315200&v=beta&t=BT_jwVDlLkXBIMvljNhMLJGBCK4hCtalpOPoSqsRxHc)
-* ✅ [Certificate: ETL Automation](https://media.licdn.com/dms/image/v2/C4E2DAQELF2uu_rbabg/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1611552179308?e=1753315200&v=beta&t=v0iZCvPhS6vJs7PXC2nrFfD2eCq5V3_AsaFI6hDOp_c)
 * 🎓 **Diploma in Software Engineering** – Aptech Computer Education
 
 ---
