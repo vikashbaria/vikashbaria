@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vikash Harjeewan
 
-🚀 **Automation & Data Specialist** | 💻 **Full Stack Web & Mobile Development** | 🎯 **Freelance Professional**
+🚀 **Automation & Data Specialist** | 💻 **Full Stack Web & Mobile Development** | 🎯 **Freelance Professional** 
 
 ---
 
@@ -25,6 +25,8 @@ Hi! I’m Vikash, a passionate tech expert with a strong background in automatio
 ### 🧳 Certifications
 
 * 🎓 **Diploma in Software Engineering** – Aptech Computer Education
+* 🎓 **Flutter App Development** – NED University of Engineering & Technology [📄 View Certificate]([link-to-your-certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Certificate%20of%20Mob%20App%20Dev..jpg))
+
 
 ---
 
