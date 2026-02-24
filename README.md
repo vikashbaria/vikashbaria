@@ -24,7 +24,7 @@ Hi! I’m Vikash, a passionate tech expert with a strong background in automatio
 
 ### 🧳 Certifications
 
-* 🎓 **Diploma in Software Engineering** – Aptech Computer Education [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Software%20En%20from%20Aptech%20.jpg)
+* 🎓 **Diploma in Software Engineering** – Aptech Computer Education [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Scan_20260131%20(6).jpg)
 * 🎓 **Flutter App Development** – NED University of Engineering & Technology [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Certificate%20of%20Mob%20App%20Dev..jpg)
 
 
