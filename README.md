@@ -1,12 +1,54 @@
-# 👋 Hello, I'm Vikash Harjeewan
+<div align="center">
 
-🚀 **Automation & Data Specialist** | 💻 **Full Stack Web & Mobile Development** | 🎯 **Freelance Professional** 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Vikash%20Harjeewan&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20•%20Flutter%20Developer%20•%20Automation%20Specialist&descAlignY=58&descSize=18"/>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=00C4FF&center=true&vCenter=true&width=950&lines=Software+Engineer+%7C+6%2B+Years+Professional+Experience;Flutter+Developer+%7C+PHP+Developer+%7C+Python+Automation;Cross-Platform+Mobile+Applications;REST+API+Integration+%7C+Firebase+%7C+MySQL;Web+Scraping+%7C+Browser+Automation+%7C+Data+Extraction;70%2B+Freelance+Projects+Successfully+Delivered;Available+for+Remote+%26+Freelance+Opportunities" alt="Typing SVG"/>
+</a>
+</p>
+
+### Software Engineer | Flutter Developer | PHP Developer | Python Automation Engineer
+
+Building scalable mobile applications, modern web solutions, and intelligent automation systems.
+
+<p align="center">
+
+<a href="mailto:vikashbaria4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01f5a825ac35115863">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vikashbaria">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vikashbaria&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-blueviolet?style=flat-square"/>
+
+</p>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+# 🚀 About Me
 
-Hi! I’m Vikash, a passionate tech expert with a strong background in automation, web scraping, data analysis, and software development. I help businesses streamline processes using custom bots, intelligent scraping tools, and powerful dashboards. With over 6 years of experience and certifications to back my skills, I'm always looking to learn and grow.
+I'm a passionate **Software Engineer** with **6+ years of professional experience** developing high-quality **mobile applications**, **web applications**, and **automation solutions**.
+
+I specialize in **Flutter**, **PHP**, **Python**, **Firebase**, **REST APIs**, **MySQL**, and **WordPress**, focusing on scalable architecture, clean code, and performance optimization.
+
+Throughout my career, I have successfully delivered **70+ freelance projects** for international clients, helping businesses automate workflows, build powerful applications, and improve productivity.
 
 ---
 
@@ -18,19 +60,14 @@ Hi! I’m Vikash, a passionate tech expert with a strong background in automatio
 * **ETL & Data Warehousing** – Data collection, transformation, and warehousing
 * **Data Analyst** – Data cleaning, insight generation
 * **Background Screening Specialist** – 4+ years at Background Check Group (2017–Still Present As a PHP Developer)
-* **Dart & Flutter** – Mobile app development (currently learning via Jawan Pakistan & NED)
-
+* **Dart & Flutter** – Mobile app development from Jawan Pakistan & NED University
 ---
-
 ### 🧳 Certifications
 
 * 🎓 **Diploma in Software Engineering** – Aptech Computer Education [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Scan_20260131%20(6).jpg)
 * 🎓 **Python Programming** – Saylani Mass Training Programme [📄 View Certificate](https://github.com/vikashbaria/vikashbaria/blob/main/Online%20Python%20Certification.pdf)
 * 🎓 **Jawan Pakistan** – Certified Flutter Application Development Course [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Jawan%20Pakistan%20Flutter%20Course%20Certificate.jpg)
 * 🎓 **Flutter App Development** – NED University of Engineering & Technology [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Certificate%20of%20Mob%20App%20Dev..jpg)
-
-
-
 
 ---
 
@@ -42,19 +79,5 @@ I work as a **top-rated freelancer on Upwork**, delivering automation solutions 
 
 ---
 
-### 📚 Currently Learning
-
-I'm sharpening my **Flutter & Dart** skills with:
-
-* 🚀 Jawan Pakistan
-
----
-
-### 📬 Let's Connect
-
-* 📧 Email: `vikashbaria4@gmail.com`
-* 💼 Upwork: [Freelancer Profile](https://www.upwork.com/freelancers/~01f5a825ac35115863)
-
----
-
 *Thanks for visiting! I'm open to freelance projects, collaborations, and tech talks.* 😊
+---
