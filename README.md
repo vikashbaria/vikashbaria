@@ -50,7 +50,6 @@ I have also completed **70+ freelance projects** on **Upwork**, specializing in 
 
 As a **Certified Flutter Developer**, I build modern cross-platform mobile applications using **Flutter**, **Dart**, and **Firebase**.
 
-**Tech Stack:** Flutter • Dart • PHP • Python • Firebase • REST APIs • MySQL • WordPress
 ---
 
 ### 🛠️ Core Skills & Technologies
