@@ -53,7 +53,7 @@ Building scalable mobile applications, modern web solutions, and intelligent aut
 # 🚀 About Me
 
 
-I'm a **Software Engineer** with **11+ years of experience** in developing scalable web applications, automation systems, and business solutions. Currently, I work as a **PHP Developer** at **Background Check Group**, building secure web applications, **RESTful APIs**, database-driven systems, and workflow automation solutions.
+I'm a **Software Engineer** with **5+ years of experience** in developing scalable web applications, automation systems, and business solutions. Currently, I work as a **PHP Developer** at **Background Check Group**, building secure web applications, **RESTful APIs**, database-driven systems, and workflow automation solutions.
 
 As a **Top Rated Upwork Freelancer**, I've completed **70+ projects** and earned **$7,000+**, delivering high-quality solutions to clients worldwide. My expertise includes **PHP**, **Python**, **MySQL**, **Firebase**, **HTML**, **CSS**, **JavaScript**, **REST API Integration**, **Python Automation**, **Web & Desktop Automation**, **Web Scraping**, **Data Mining**, **Data Extraction**, **Web Research**, **Selenium**, **Playwright**, and **Custom Business Automation Solutions**.
 
