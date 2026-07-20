@@ -52,11 +52,13 @@ Building scalable mobile applications, modern web solutions, and intelligent aut
 
 # 🚀 About Me
 
-I'm a **Software Engineer** with **11+ years of experience** building web applications, automation tools, and scalable software solutions. I have spent the last **4+ years** as a **PHP Developer** at **Background Check Group**, developing secure web applications, REST APIs, and database-driven systems.
 
-I have also completed **70+ freelance projects** on **Upwork**, specializing in **Python Automation**, **Web Scraping**, **REST API Integration**, and custom business automation solutions.
+I'm a **Software Engineer** with **11+ years of experience** in developing scalable web applications, automation systems, and business solutions. Currently, I work as a **PHP Developer** at **Background Check Group**, building secure web applications, **RESTful APIs**, database-driven systems, and workflow automation solutions.
 
-As a **Certified Flutter Developer**, I build modern cross-platform mobile applications using **Flutter**, **Dart**, and **Firebase**.
+As a **Top Rated Upwork Freelancer**, I've completed **70+ projects** and earned **$7,000+**, delivering high-quality solutions to clients worldwide. My expertise includes **PHP**, **Python**, **MySQL**, **Firebase**, **HTML**, **CSS**, **JavaScript**, **REST API Integration**, **Python Automation**, **Web & Desktop Automation**, **Web Scraping**, **Data Mining**, **Data Extraction**, **Web Research**, **Selenium**, **Playwright**, and **Custom Business Automation Solutions**.
+
+I'm passionate about building reliable, scalable, and efficient software solutions that automate workflows, solve complex problems, and deliver real business value.
+
 
 ---
 
