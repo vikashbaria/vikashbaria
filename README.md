@@ -72,13 +72,14 @@ I'm passionate about building reliable, scalable, and efficient software solutio
 * **Background Screening Specialist** – 4+ years at Background Check Group (2017–Still Present As a PHP Developer)
 * **Dart & Flutter** – Mobile app development from Jawan Pakistan & NED University
 ---
-### 🧳 Certifications
+## 🎓 Certifications
 
-* 🎓 **Diploma in Software Engineering** – Aptech Computer Education [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Scan_20260131%20(6).jpg)
-* 🎓 **Python Programming** – Saylani Mass Training Programme [📄 View Certificate](https://github.com/vikashbaria/vikashbaria/blob/main/Online%20Python%20Certification.pdf)
-* 🎓 **Jawan Pakistan** – Certified Flutter Application Development Course [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Jawan%20Pakistan%20Flutter%20Course%20Certificate.jpg)
-* 🎓 **Flutter App Development** – NED University of Engineering & Technology [📄 View Certificate](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Certificate%20of%20Mob%20App%20Dev..jpg)
-
+| Certification | Institution | Certificate |
+|---------------|-------------|-------------|
+| 🎓 Diploma in Software Engineering | Aptech Computer Education | [📄 View](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Scan_20260131%20(6).jpg) |
+| 🐍 Python Programming | Saylani Mass IT Training Program (SMIT) | [📄 View](https://github.com/vikashbaria/vikashbaria/blob/main/Online%20Python%20Certification.pdf) |
+| 📱 Flutter Application Development | Jawan Pakistan | [📄 View](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Jawan%20Pakistan%20Flutter%20Course%20Certificate.jpg) |
+| 🚀 Flutter App Development | NED University of Engineering & Technology | [📄 View](https://raw.githubusercontent.com/vikashbaria/vikashbaria/refs/heads/main/Certificate%20of%20Mob%20App%20Dev..jpg) |
 ---
 
 ### 🌍 Freelance Career
